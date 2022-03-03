@@ -1610,3 +1610,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 1740,3,(\.|^)dropboxusercontent\.com$,1,1646264008,1646264008,""
 1741,3,(\.|^)charter\.com$,1,1646264125,1646264125,""
 1742,3,(\.|^)iqs\.local$,1,1646264413,1646264413,""
+1745,3,(\.|^)junk\.org$,1,1646270439,1646270439,
