@@ -1612,4 +1612,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 1742,3,(\.|^)iqs\.local$,1,1646264413,1646264413,""
 1743,0,kucoin.com,1,1647152529,1647152529,"Added from Query Log"
 1744,0,www.kucoin.com,1,1647152596,1647152596,"Added from Query Log"
-1746,1,junk.com,1,1648046885,1648046885,
+1746,1,junk.com,1,1648046885,1648047286,
